@@ -1,1 +1,1 @@
-# git-practice-homework
+# Git Practice Homework
